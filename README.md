@@ -15,5 +15,4 @@ This discord bot uses Jikan's genre category to get various genres for each comm
    
    ## Current Commands
 
-   Markup : - Bullet list
-              - Nested bullet
+   * The Welcome/Information command: `.welcome`
