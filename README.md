@@ -10,7 +10,8 @@ This discord bot uses Jikan's genre category to get various genres for each comm
 
 <p align="center">
 <img src="/pics/demo2.png" width="350" height="500">      <img src="/pics/demo1.png" width="560" height="500">
-> note: only one genre is being used for demo purposes
+
+  > note: only one genre is being used for demo purposes
 
 
 
