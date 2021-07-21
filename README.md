@@ -8,7 +8,7 @@ This discord bot uses Jikan's genre category to get various genres for each comm
 
 ## Take A Look
 
-![](/pics/welcome.png) | ![](/pics/demo1.png)
+![](/pics/demo2.png){:height="30%" width="30%"}
 
 
 
