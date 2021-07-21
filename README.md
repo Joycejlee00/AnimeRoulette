@@ -6,9 +6,9 @@ AR (Anime Roulette) is a discord bot that makes use of the [Jikan Apiary](https:
 
 This discord bot uses Jikan's genre category to get various genres for each command. It has a list of built-in commands (such as '.Romance') that allows users to get back a random anime (including information), within a specific genre.
 
-# Take A Look
+## Take A Look
 
-![]()
+![](/pics/welcome.png) | ![](/pics/demo1.png)
 
 
 
