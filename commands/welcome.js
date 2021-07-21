@@ -18,7 +18,7 @@ module.exports = {
             {name: 'Commands:',
             value: "Welcome/Info setting:  `.welcome` \n"},
             {name: 'Genres:',
-            value: "Romance: `.romance`\n Horror: `.horror`\n Thriller: `.thriller`\n Action: `.action`\n Shoujo: `.shoujo`\n Adventure: `.adventure`\n Comedy: `.comedy`\n Fantasy: `.fantasy`\n Seinen: `.seinen`\n Shounen: `.shounen`\n Sports: `.sports`\n Josei: `.josei`\n Slice of Life: `.slicelife`\n"}
+            value: "Action: `.action`\n Adventure: `.adventure`\n Comedy: `.comedy`\n Fantasy: `.fantasy`\n Horror: `.horror`\n Josei: `.josei`\n Romance: `.romance`\n Seinen: `.seinen`\n Shoujo: `.shoujo`\n Shounen: `.shounen`\n Slice of Life: `.slicelife`\n Sports: `.sports`\n Thriller: `.thriller`\n"}
         )
         .setTimestamp()
         msg.channel.send(helpEmbed);
