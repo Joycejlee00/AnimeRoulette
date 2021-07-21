@@ -21,13 +21,13 @@ This discord bot uses Jikan's genre category to get various genres for each comm
       
       * Action: `.action`
          * Action genre typically are fast-paced (movies/tvs) and contain fighting, violence, chasing, etc. 
-               > e.i: Attack on Titan
+         >> e.i: Attack on Titan
       * Adventure: `.adventure`
          * Adventure genre is similar to the action genre, but there is more geared towards quests, journeys, etc.
                > e.i: Naruto
       * Comedy: `.comedy`
          * Comedy genre is catered to amuse/entertain the audience (mostly by laughter)
-               > e.i: Arakawa Under the Bridge
+          >> e.i: Arakawa Under the Bridge
       * Fantasy: `.fantasy`
          * Fantasy genre mostly contains fictional elements such as magic, mythical monsters, etc.
                > e.i: Fairy Tale
