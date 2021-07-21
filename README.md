@@ -8,8 +8,27 @@ This discord bot uses Jikan's genre category to get various genres for each comm
 
 ## Take A Look
 
-![](/pics/welcome.png) | ![](/pics/demo1.png)
+   > <p size="5"> note: only one genre is being used for demo purposes
 
+<p align="center">
+<img src="/pics/demo2.png" width="350" height="500">      <img src="/pics/demo1.png" width="560" height="500">
+   
+   ## Current Commands
 
-
-
+   * The Welcome/Information command: `.welcome`
+      * The welcome/Information command returns an embeded message containing a small blurb about the bot and all the commands the bot supports
+   * All the genres the bot supports (commands):
+      
+      * Action: `.action`
+      * Adventure: `.adventure`
+      * Comedy: `.comedy`
+      * Fantasy: `.fantasy`
+      * Horror: `.horror`
+      * Josei: `.josei`
+      * Romance: `.romance`
+      * Seinen: `.seinen`
+      * Shoujo: `.shoujo`
+      * Shounen: `.shounen`
+      * Slice of Life: `.slicelife`
+      * Sports: `.sports`
+      * Thriller: `.thriller`
