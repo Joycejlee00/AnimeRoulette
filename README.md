@@ -20,15 +20,41 @@ This discord bot uses Jikan's genre category to get various genres for each comm
    * All the genres the bot supports (commands):
       
       * Action: `.action`
+         * Action genre typically are fast-paced (movies/tvs) and contain fighting, violence, chasing, etc. 
+               > e.i: Attack on Titan
       * Adventure: `.adventure`
+         * Adventure genre is similar to the action genre, but there is more geared towards quests, journeys, etc.
+               > e.i: Naruto
       * Comedy: `.comedy`
+         * Comedy genre is catered to amuse/entertain the audience (mostly by laughter)
+               > e.i: Arakawa Under the Bridge
       * Fantasy: `.fantasy`
+         * Fantasy genre mostly contains fictional elements such as magic, mythical monsters, etc.
+               > e.i: Fairy Tale
       * Horror: `.horror`
+         * Horror genre is meant to get receive a reaction from the audience. This includes (but not limited to), scares, shock, provoke fear, etc.
+               > e.i: Tokyo Ghoul
       * Josei: `.josei`
+         * Josei genre is a genre that is more catered towards woman. This includes shows/films characters of teens/young adults
+               > e.i: Orange
       * Romance: `.romance`
+         * Romance genre is a genre where love is the main goal to be achieved. This not necessarily include a certain love interest (e.i: Frozen)
+               > e.i: Fruits Basket
       * Seinen: `.seinen`
+         * Unlike Josei, the Seinen genre is a genre that is catered toward young adults (Males)
+               > e.i: Code Geass
       * Shoujo: `.shoujo`
+         * Unlike Josei, where the genre is catered more towards young adult woman. Shoujo genre is caterered more towards young (Middle to High school) girls
+               > e.i: Kimi ni Todoke
       * Shounen: `.shounen`
+         * Shounen genre is simply a mix of action and adventure
+               > e.i: Boruto
       * Slice of Life: `.slicelife`
+         * Slice of Life genres are mostly slow/medium paced. Unlike action or adventure, this genre is more about a character's day to day life
+               > e.i: Free!
       * Sports: `.sports`
+         * Sports genre mainly contains sports in the show/movie
+               > e.i: Kuroko no Basket
       * Thriller: `.thriller`
+         * Unlike Horror, the thriller genre is more inticing, dark, and suspensful themed
+               > e.i: Death Note
