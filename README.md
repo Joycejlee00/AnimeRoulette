@@ -16,3 +16,4 @@ This discord bot uses Jikan's genre category to get various genres for each comm
    ## Current Commands
 
    * The Welcome/Information command: `.welcome`
+      * The welcome/Information command returns an embeded message containing a small blurb about the bot and all the commands the bot supports
