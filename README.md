@@ -1,8 +1,7 @@
 # Anime Roulette
 
 <p align="center">
-*Dont know what to watch? But have a genre in mind?
-Anime Roulette is a bot that can help with that!*
+___Dont know what to watch? But have a genre in mind? Anime Roulette is a bot that can help with that!___
 
 <p align="left">
 AR (Anime Roulette) is a discord bot that makes use of the [Jikan Apiary](https://jikan.docs.apiary.io/#introduction/information). Jikan Apiary is a wrapper (unofficial) that takes [MyAnimeList's API](https://myanimelist.net/) and turns into more useable API path.
