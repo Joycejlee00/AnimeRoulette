@@ -12,6 +12,7 @@ bot.on('ready', () => {
 const prefix = '.';
 
 const fs = require('fs');
+const { default: messageHandler } = require('wokcommands/dist/message-handler');
 bot.commands = new Discord.Collection();
 
 const commandFile = fs.readdirSync('./commands/').filter(file => file.endsWith('.js'));
@@ -23,13 +24,18 @@ for(const file of commandFile){
 
 
 bot.on('message', async msg => {
-    //new icon
-    bot.user.setAvatar('/pics/icon.png')
-    .then(user => console.log('new icon set!'))
-    .catch(console.log(console.error));
-    
+    // //new icon
+    // bot.user.setAvatar('/pics/icon.png')
+    // .then(user => console.log('new icon set!'))
+    // .catch(console.log(console.error));
+
     if(!msg.content.startsWith(prefix) || msg.author.bot){
         return;
+    }
+    //set icon
+    else if(msg.startsWith(prefix + "profile")){
+        img = message.attachments.first().url;
+        bot.user.setAvatar(img);
     }
     const args = msg.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
