@@ -20,12 +20,12 @@ This discord bot has a list of built-in commands that allow users to input a spe
    
    ## Current Commands
 
-   * The Welcome/Information command: `.welcome`
+   * *The Welcome/Information command: `.welcome`*
       * The welcome/Information command returns an embeded message containing a small blurb about the bot and all the commands the bot currently supports.
          >> <p size="5"> note: this may change!
       
       
-   * All the genres the bot supports (commands):
+   * *All the genres the bot supports (commands):*
       
       * Action: `.action`
          * The action genre typically is fast-paced (movies/TVs) and mostly has: fighting, violence, chasing, etc. 
