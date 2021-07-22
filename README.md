@@ -1,9 +1,6 @@
 # Anime Roulette
 
-**asterisks**
-
 <p align="center">
-**asterisks**
 **Dont know what to watch? But have a genre in mind? Anime Roulette is a bot that can help with that!**
 
 <p align="left">
