@@ -21,7 +21,13 @@ for(const file of commandFile){
     bot.commands.set(command.name, command);
 }
 
+
 bot.on('message', async msg => {
+    //new icon
+    bot.user.setAvatar('/pics/icon.png')
+    .then(user => console.log('new icon set!'))
+    .catch(console.log(console.error));
+    
     if(!msg.content.startsWith(prefix) || msg.author.bot){
         return;
     }
