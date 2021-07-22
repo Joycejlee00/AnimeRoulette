@@ -9,7 +9,7 @@ AR (Anime Roulette) is a discord bot that makes use of the [Jikan Apiary](https:
 Jikan Apiary is a wrapper (unofficial) that takes [MyAnimeList](https://myanimelist.net/) and turns into more useable API path (rest).
 
 <p align="left">
-This discord has a list of built-in commands that allows users to input a specific genre, and get back a random anime within that genre.
+This discord bot has a list of built-in commands that allow users to input a specific genre and get back a random anime within that genre.
 
 ## Take A Look
 
@@ -21,7 +21,8 @@ This discord has a list of built-in commands that allows users to input a specif
    ## Current Commands
 
    * The Welcome/Information command: `.welcome`
-      * The welcome/Information command returns an embeded message containing a small blurb about the bot and all the commands the bot supports
+      * The welcome/Information command returns an embeded message containing a small blurb about the bot and all the commands the bot currently supports.
+      >> <p size="5"> note: this may change!
       
       
    * All the genres the bot supports (commands):
