@@ -28,19 +28,19 @@ This discord bot has a list of built-in commands that allow users to input a spe
    * All the genres the bot supports (commands):
       
       * Action: `.action`
-         * Action genre typically are fast-paced (movies/tvs) and mostly contains: fighting, violence, chasing, etc. 
+         * The action genre typically is fast-paced (movies/TVs) and mostly has: fighting, violence, chasing, etc. 
          > <p size="5"> e.i:  Attack on Titan
       * Adventure: `.adventure`
-         * Adventure genre is similar to the action genre, but there is more geared towards quests, journeys, missions, etc.
+         * The adventure genre is similar to the action genre but is more centered on quests, journeys, missions, etc.
          > <p size="5"> e.i:  Naruto
       * Comedy: `.comedy`
-         * Comedy genre is catered to amuse/entertain the audience (mostly by laughter)
+         * The comedy genre is mostly filled with films that amuse the audience (with laughter)
          > <p size="5"> e.i:  Arakawa Under the Bridge
       * Fantasy: `.fantasy`
-         * Fantasy genre mostly contains fictional elements such as magic, mythical monsters, etc.
+         * The Fantasy genre mostly has fictional elements such as magic, mythical monsters, etc.
          > <p size="5"> e.i:  Fairy Tale
       * Horror: `.horror`
-         * Horror genre is meant to provoke the audience. Examples would be: shock, fear, etc.
+         * The Horror genre is to provoke fear, startle, shock, into the audience
          > <p size="5"> e.i:  Tokyo Ghoul
       * Josei: `.josei`
          * The Josei genre is more catered towards young adult women, this includes shows/films characters of teens to young adults
@@ -49,16 +49,16 @@ This discord bot has a list of built-in commands that allow users to input a spe
          * The romance genre has love as the main goal that is to be achieved. This does not necessarily include a certain love interest (e.i: Frozen)
          > <p size="5"> e.i:  Fruits Basket
       * Seinen: `.seinen`
-         * Unlike Josei, the Seinen genre is catered toward young male adults
+         * The Seinen genre is more for young adult men
          > <p size="5"> e.i:  Code Geass
       * Shoujo: `.shoujo`
-         * Unlike Josei, where the genre is catered more towards young adult women; Shoujo genre is catered more towards young (Middle to High school) girls
+         * Unlike Josei, where the genre for young adult women; the Shoujo genre is more towards young (Middle to High school) girls
          > <p size="5"> e.i:  Kimi ni Todoke
       * Shounen: `.shounen`
          * Shounen genre is simply a mix of action and adventure
          > <p size="5"> e.i:  Boruto
       * Slice of Life: `.slicelife`
-         * Slice of Life genres are mostly slow/medium paced. Unlike action or adventure, this genre is more about a character's day to day life without a set plot
+         * Slice of Life genres are mostly slow/medium paced. This genre is more about a character's day to day life without a set plot
          > <p size="5"> e.i:  Free!
       * Sports: `.sports`
             * Sports genre usually includes some type of sport in the show/movie
