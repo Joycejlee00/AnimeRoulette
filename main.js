@@ -6,6 +6,10 @@ require('dotenv').config();
 
 bot.on('ready', () => {
     console.log('logged in!');
+
+
+    avatar = "https://media.discordapp.net/attachments/867500059812823071/867595913174319124/Bowden__Cahill.png";
+    bot.user.setAvatar(avatar);
 });
 
 //create prefix:
@@ -79,13 +83,6 @@ bot.on('message', async msg => {
     }
     else if(command === 'seinen'){
         bot.commands.get('seinen').execute(msg, args, Discord);
-    }
-
-
-    //set icon
-    else if(msg.startsWith(prefix + "profile")){
-        img = message.attachments.first().url;
-        bot.user.setAvatar(img);
     }
 });
 
