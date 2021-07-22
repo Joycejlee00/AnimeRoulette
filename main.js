@@ -32,11 +32,6 @@ bot.on('message', async msg => {
     if(!msg.content.startsWith(prefix) || msg.author.bot){
         return;
     }
-    //set icon
-    else if(msg.startsWith(prefix + "profile")){
-        img = message.attachments.first().url;
-        bot.user.setAvatar(img);
-    }
     const args = msg.content.slice(prefix.length).split(/ +/);
     const command = args.shift().toLowerCase();
 
@@ -84,6 +79,13 @@ bot.on('message', async msg => {
     }
     else if(command === 'seinen'){
         bot.commands.get('seinen').execute(msg, args, Discord);
+    }
+
+
+    //set icon
+    else if(msg.startsWith(prefix + "profile")){
+        img = message.attachments.first().url;
+        bot.user.setAvatar(img);
     }
 });
 
