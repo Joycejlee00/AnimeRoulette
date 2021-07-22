@@ -33,28 +33,28 @@ This discord bot uses Jikan's genre category to get various genres for each comm
          > <p size="5"> e.i:  Fairy Tale
       * Horror: `.horror`
          * Horror genre is meant to get receive a reaction from the audience. This includes (but not limited to), scares, shock, provoke fear, etc.
-         <p size="5"> > e.i:  Tokyo Ghoul
+         > <p size="5"> e.i:  Tokyo Ghoul
       * Josei: `.josei`
          * Josei genre is a genre that is more catered towards woman. This includes shows/films characters of teens/young adults
-         <p size="5"> > e.i:  Orange
+         > <p size="5"> e.i:  Orange
       * Romance: `.romance`
          * Romance genre is a genre where love is the main goal to be achieved. This not necessarily include a certain love interest (e.i: Frozen)
-         <p size="5"> > e.i:  Fruits Basket
+         > <p size="5"> e.i:  Fruits Basket
       * Seinen: `.seinen`
          * Unlike Josei, the Seinen genre is a genre that is catered toward young adults (Males)
-         <p size="5"> > e.i:  Code Geass
+         > <p size="5"> e.i:  Code Geass
       * Shoujo: `.shoujo`
          * Unlike Josei, where the genre is catered more towards young adult woman. Shoujo genre is caterered more towards young (Middle to High school) girls
-         <p size="5"> > e.i:  Kimi ni Todoke
+         > <p size="5"> e.i:  Kimi ni Todoke
       * Shounen: `.shounen`
          * Shounen genre is simply a mix of action and adventure
-         <p size="5"> > e.i:  Boruto
+         > <p size="5"> e.i:  Boruto
       * Slice of Life: `.slicelife`
          * Slice of Life genres are mostly slow/medium paced. Unlike action or adventure, this genre is more about a character's day to day life
-         <p size="5"> > e.i:  Free!
+         > <p size="5"> e.i:  Free!
       * Sports: `.sports`
          * Sports genre mainly contains sports in the show/movie
-         <p size="5"> > e.i:  Kuroko no Basket
+         > <p size="5"> e.i:  Kuroko no Basket
       * Thriller: `.thriller`
          * Unlike Horror, the thriller genre is more inticing, dark, and suspensful themed
-         <p size="5"> > e.i:  Death Note
+         > <p size="5"> e.i:  Death Note
