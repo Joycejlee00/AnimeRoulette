@@ -8,7 +8,7 @@ bot.on('ready', () => {
     console.log('logged in!');
 
 
-    avatar = "/pics/icon.png";
+    avatar = "https://media.discordapp.net/attachments/867500059812823071/867597825319895040/icon.png";
     bot.user.setAvatar(avatar);
 });
 
