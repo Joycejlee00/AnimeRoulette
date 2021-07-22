@@ -67,6 +67,6 @@ This discord bot uses Jikan's genre category to get various genres for each comm
             
    ## Extra
 
-     I created this discord bot using [Discord.Js](https://discord.js.org/#/), which allows me to use the Discord API. Along with Discord.Js, I also used [Node.Js](https://nodejs.org/en/), which is a runtime enginine for Javascript.
+  I created this discord bot using [Discord.Js](https://discord.js.org/#/), which allows me to use the Discord API. Along with Discord.Js, I also used [Node.Js](https://nodejs.org/en/), which is a runtime enginine for Javascript.
             
             
