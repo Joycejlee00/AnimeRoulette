@@ -1,7 +1,7 @@
 # Anime Roulette
 
 
-**Dont know what to watch? But have a genre in mind? Anime Roulette is a bot that can help with that!**
+**Dont know what to watch? But have a genre in mind? Anime Roulette is a bot that can help!**
 
    
 <p align="left">
@@ -63,4 +63,4 @@ This discord bot uses Jikan's genre category to get various genres for each comm
          * Unlike Horror, the thriller genre is more inticing, dark, and suspensful themed
          > <p size="5"> e.i:  Death Note
 
-            ## Extra
+   ## Extra
