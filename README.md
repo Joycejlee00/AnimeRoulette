@@ -5,7 +5,8 @@
 
    
 <p align="left">
-AR (Anime Roulette) is a discord bot that makes use of the [Jikan Apiary](https://jikan.docs.apiary.io/#introduction/information). Jikan Apiary is a wrapper (unofficial) that takes [MyAnimeList's API](https://myanimelist.net/) and turns into more useable API path.
+AR (Anime Roulette) is a discord bot that makes use of the [Jikan Apiary](https://jikan.docs.apiary.io/#introduction/information).
+Jikan Apiary is a wrapper (unofficial) that takes [MyAnimeList's API](https://myanimelist.net/) and turns into more useable API path.
 
 <p align="left">
 This discord bot uses Jikan's genre category to get various genres for each command. It has a list of built-in commands (such as '.Romance') that allows users to get back a random anime (including information), within a specific genre.
@@ -63,4 +64,9 @@ This discord bot uses Jikan's genre category to get various genres for each comm
          * Unlike Horror, the thriller genre is more inticing, dark, and suspensful themed
          > <p size="5"> e.i:  Death Note
 
+            
    ## Extra
+
+     I created this discord bot using [Discord.Js](https://discord.js.org/#/), which allows me to use the Discord API. Along with Discord.Js, I also used [Node.Js](https://nodejs.org/en/), which is a runtime enginine for Javascript.
+            
+            
