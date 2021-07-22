@@ -65,8 +65,15 @@ This discord bot uses Jikan's genre category to get various genres for each comm
          > <p size="5"> e.i:  Death Note
 
             
-   ## Extra
+    
+           
+   ### Extra
 
   I created this discord bot using [Discord.Js](https://discord.js.org/#/), which allows me to use the Discord API. Along with Discord.Js, I also used [Node.Js](https://nodejs.org/en/), which is a runtime enginine for Javascript.
             
             
+   My boyfriend and love for anime has insprired me to create this discord bot. We always wanted to watch anime but did not know which anime to watch (excluding genre); not only us, but many of my friends also used discord as one of their primary form of communication. This inspired me to create a discord bot that would recommend a random anime depending on the genre. 
+            
+            
+  ### Get Started
+  click [here](https://discord.com/oauth2/authorize?client_id=866488441415663707&scope=bot&permissions=4228906233) to add Anime Roulette to your server!
