@@ -8,7 +8,7 @@ bot.on('ready', () => {
     console.log('logged in!');
 
 
-    avatar = "https://media.discordapp.net/attachments/867500059812823071/867595913174319124/Bowden__Cahill.png";
+    avatar = "/pics/icon.png";
     bot.user.setAvatar(avatar);
 });
 
