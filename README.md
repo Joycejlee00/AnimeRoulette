@@ -1,7 +1,7 @@
 # Anime Roulette
 
 
-**Dont know what to watch? But have a genre in mind? Anime Roulette is a bot that can help!**
+**Dont know what to watch? Use the Anime Roulette bot to decide!**
 
    
 
