@@ -72,7 +72,7 @@ This discord bot has a list of built-in commands that allow users to input a spe
            
    ### Extra
 
-  I created this discord bot using [Discord.Js](https://discord.js.org/#/), which allows me to use the Discord API. I also utilized [Node.Js](https://nodejs.org/en/), which is a runtime enginine for Javascript.
+  I created this discord bot using [Discord.Js](https://discord.js.org/#/), which allows me to use the Discord API. I also utilized [Node.Js](https://nodejs.org/en/), which is a runtime engine for Javascript.
             
             
    My boyfriend inspired me to create this discord bot. We both use discord to stream movies (especially animes). There were numerous times where we would just talk about which anime to watch but never came down to a single answer. This gave me an idea to create a bot that suggests random animes by genre.
