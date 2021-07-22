@@ -43,16 +43,16 @@ This discord bot has a list of built-in commands that allow users to input a spe
          * Horror genre is meant to provoke the audience. Examples would be: shock, fear, etc.
          > <p size="5"> e.i:  Tokyo Ghoul
       * Josei: `.josei`
-         * Josei genre is a genre that is more catered towards young adult women. This includes shows/films characters of teens to young adults
+         * The Josei genre is more catered towards young adult women, this includes shows/films characters of teens to young adults
          > <p size="5"> e.i:  Orange
       * Romance: `.romance`
-         * Romance genre is a genre where love is the main goal to be achieved. This not necessarily include a certain love interest (e.i: Frozen)
+         * The romance genre has love as the main goal that is to be achieved. This does not necessarily include a certain love interest (e.i: Frozen)
          > <p size="5"> e.i:  Fruits Basket
       * Seinen: `.seinen`
-         * Unlike Josei, the Seinen genre is a genre that is catered toward young adults (Males)
+         * Unlike Josei, the Seinen genre is catered toward young male adults
          > <p size="5"> e.i:  Code Geass
       * Shoujo: `.shoujo`
-         * Unlike Josei, where the genre is catered more towards young adult woman; Shoujo genre is caterered more towards young (Middle to High school) girls
+         * Unlike Josei, where the genre is catered more towards young adult women; Shoujo genre is catered more towards young (Middle to High school) girls
          > <p size="5"> e.i:  Kimi ni Todoke
       * Shounen: `.shounen`
          * Shounen genre is simply a mix of action and adventure
@@ -61,10 +61,10 @@ This discord bot has a list of built-in commands that allow users to input a spe
          * Slice of Life genres are mostly slow/medium paced. Unlike action or adventure, this genre is more about a character's day to day life without a set plot
          > <p size="5"> e.i:  Free!
       * Sports: `.sports`
-         * Sports genre mainly contains sports in the show/movie
+            * Sports genre usually includes some type of sport in the show/movie
          > <p size="5"> e.i:  Kuroko no Basket
       * Thriller: `.thriller`
-         * Unlike Horror, the thriller genre is more inticing, dark, and suspensful themed
+         * Unlike Horror, the thriller genre is much more dark and suspensful
          > <p size="5"> e.i:  Death Note
 
             
