@@ -30,7 +30,7 @@ This discord bot uses Jikan's genre category to get various genres for each comm
          > <p size="5"> e.i:  Arakawa Under the Bridge
       * Fantasy: `.fantasy`
          * Fantasy genre mostly contains fictional elements such as magic, mythical monsters, etc.
-         <p size="5"> > e.i:  Fairy Tale
+         > <p size="5"> e.i:  Fairy Tale
       * Horror: `.horror`
          * Horror genre is meant to get receive a reaction from the audience. This includes (but not limited to), scares, shock, provoke fear, etc.
          <p size="5"> > e.i:  Tokyo Ghoul
