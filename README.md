@@ -38,7 +38,7 @@ This discord bot has a list of built-in commands that allow users to input a spe
          > <p size="5"> e.i:  Arakawa Under the Bridge
       * Fantasy: `.fantasy`
          * The Fantasy genre mostly has fictional elements such as magic, mythical monsters, etc.
-         > <p size="5"> e.i:  Fairy Tale
+         > <p size="5"> e.i:  Fairy Tail
       * Horror: `.horror`
          * The Horror genre is to provoke fear, startle, shock, into the audience
          > <p size="5"> e.i:  Tokyo Ghoul
