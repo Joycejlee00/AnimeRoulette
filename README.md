@@ -79,7 +79,9 @@ This discord bot has a list of built-in commands that allow users to input a spe
          > <p size="5"> e.i:  Death Note
 
             
-    
+   ### Get Started
+   click [here](https://discord.com/oauth2/authorize?client_id=866488441415663707&scope=bot&permissions=4228906233) to add Anime Roulette to your server!
+
            
    ### Extra
 
@@ -88,6 +90,4 @@ This discord bot has a list of built-in commands that allow users to input a spe
             
    My boyfriend inspired me to create this discord bot. We both use discord very often. There were many times where we would just talk about which anime to watch but never came down to a single answer. This gave me an idea to create a bot that suggests random animes by genre.
             
-            
-  ### Get Started
-  click [here](https://discord.com/oauth2/authorize?client_id=866488441415663707&scope=bot&permissions=4228906233) to add Anime Roulette to your server!
+          
