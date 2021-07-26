@@ -26,6 +26,9 @@ This discord bot has a list of built-in commands that allow users to input a spe
       
             
    * ***!NEW** User Search command:* `.user [input username here]`
+            
+            <img src"/pics/userdemo1.png" width="350" height="500">
+            
       * The User search command returns an embeded message containing information regarding the user of choice.
       * This includes:
          * Name of user + link to their profile, profile picture
