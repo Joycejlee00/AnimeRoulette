@@ -68,7 +68,11 @@ module.exports = {
         .setThumbnail(`${userImg}`)
         .setTimestamp();
         //set conditions in case someone does have a favorite anime/manga list
-        if(finalAnimeTitle && finalMangaTitle.length == 0) profileEmbed.addFields(
+        if(finalAnimeTitle.length == 0 && finalMangaTitle.length == 0) profileEmbed.addFields(
+            {name: 'Top 5 Favorite Anime', value: `No Favorite Anime yet!`, inline: true},
+            {name: 'Top 5 Favorite Manga', value: 'No Favorite Manga yet!' , inline: true},
+        )
+        else if(finalAnimeTitle && finalMangaTitle.length == 0) profileEmbed.addFields(
             {name: 'Top 5 Favorite Anime', value: `‣ ${finalAnimeTitle[0]}\n ‣ ${finalAnimeTitle[1]}\n ‣ ${finalAnimeTitle[2]}\n ‣ ${finalAnimeTitle[3]}\n ‣ ${finalAnimeTitle[4]}\n`, inline: true},
             { name: '\u200B', value: '\u200B' , inline: true},
             {name: 'Top 5 Favorite Manga', value: `No Favorite Manga yet!\n`, inline: true},
@@ -78,16 +82,11 @@ module.exports = {
             { name: '\u200B', value: '\u200B' , inline: true},
             {name: 'Top 5 Favorite Manga', value: `‣ ${finalMangaTitle[0]}\n ‣ ${finalMangaTitle[1]}\n ‣ ${finalMangaTitle[2]}\n ‣ ${finalMangaTitle[3]}\n ‣ ${finalMangaTitle[4]}\n`, inline: true},
         )
-        else if(finalAnimeTitle.length == 0 && finalMangaTitle.length == 0) profileEmbed.addFields(
-            {name: 'Top 5 Favorite Anime', value: `No Favorite Anime yet!`, inline: true},
-            { name: '\u200B', value: 'No Favorite Manga yet!' , inline: true},
-        )
         else profileEmbed.addFields(
             {name: 'Top 5 Favorite Anime', value: `‣ ${finalAnimeTitle[0]}\n ‣ ${finalAnimeTitle[1]}\n ‣ ${finalAnimeTitle[2]}\n ‣ ${finalAnimeTitle[3]}\n ‣ ${finalAnimeTitle[4]}\n`, inline: true},
             { name: '\u200B', value: '\u200B' , inline: true},
             {name: 'Top 5 Favorite Manga', value: `‣ ${finalMangaTitle[0]}\n ‣ ${finalMangaTitle[1]}\n ‣ ${finalMangaTitle[2]}\n ‣ ${finalMangaTitle[3]}\n ‣ ${finalMangaTitle[4]}\n`, inline: true},
         )
-        .addField({ name: '\u200B', value: '\u200B'})
         msg.channel.send(profileEmbed);
     }
 }
