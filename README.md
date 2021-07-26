@@ -44,6 +44,9 @@ This discord bot has a list of built-in commands that allow users to input a spe
       * Comedy: `.comedy`
          * The comedy genre is mostly filled with films that amuse the audience (with laughter)
          > <p size="5"> e.i:  Arakawa Under the Bridge
+      * Drama: `.drama`
+         * The Drama genre features many stories that have lots of conflict
+         > <p size="5"> e.i:  Kimi no Na wa
       * Fantasy: `.fantasy`
          * The Fantasy genre mostly has fictional elements such as magic, mythical monsters, etc.
          > <p size="5"> e.i:  Fairy Tail
