@@ -24,6 +24,13 @@ This discord bot has a list of built-in commands that allow users to input a spe
       * The welcome/Information command returns an embeded message containing a small blurb about the bot and all the commands the bot currently supports.
          >> <p size="5"> note: this may change!
       
+            
+   * *!NEW User Search command:* `.user [input username here]`
+      * The User search command returns an embeded message containing information regarding the user of choice.
+      * This includes:
+         * Name of user + link to their profile, profile picture
+         * Date joined, last login, total number of entries
+         * Top 5 favorite anime/manga
       
    * *All the genres the bot supports (commands):*
       
