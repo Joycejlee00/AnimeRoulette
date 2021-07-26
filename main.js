@@ -86,6 +86,9 @@ bot.on('message', async msg => {
     else if(command === 'seinen'){
         bot.commands.get('seinen').execute(msg, args, Discord);
     }
+    else if(command === 'drama'){
+        bot.commands.get('drama').execute(msg, args, Discord);
+    }
     //get the user's anime list info
     else if(command === 'user'){
         bot.commands.get('user').execute(msg, args, Discord);

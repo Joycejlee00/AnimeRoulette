@@ -14,11 +14,12 @@ module.exports = {
         const helpEmbed = new Discord.MessageEmbed()
         .setColor('#eaba40')
         .addFields(
-            {name: 'Welcome!', value: "Dont know what to watch? \n You can use this Anime Roulette bot to pick the next anime to watch! \n Below are some features of the bot! Feel free to try it out!\n\n"},
+            {name: 'Welcome!', value: "Dont know what to watch? \n You can use this Anime Roulette bot to pick the next anime to watch! \n Below are some features of the bot! Feel free to try it out!\n\n", inline: false},
             {name: 'Commands:',
-            value: "Welcome/Info setting:  `.welcome` \n"},
+            value: "Welcome/Info setting:  `.welcome` \n User search: `.user [their username]`\n", inline: false},
             {name: 'Genres:',
-            value: "Action: `.action`\n Adventure: `.adventure`\n Comedy: `.comedy`\n Fantasy: `.fantasy`\n Horror: `.horror`\n Josei: `.josei`\n Romance: `.romance`\n Seinen: `.seinen`\n Shoujo: `.shoujo`\n Shounen: `.shounen`\n Slice of Life: `.slicelife`\n Sports: `.sports`\n Thriller: `.thriller`\n"}
+            value: "Action: `.action`\n Adventure: `.adventure`\n Comedy: `.comedy`\n Drama: `.drama`\n Fantasy: `.fantasy`\n Horror: `.horror`\n Josei: `.josei`\n", inline: true},
+            {name: '\u200B', value: "Romance: `.romance`\n Seinen: `.seinen`\n Shoujo: `.shoujo`\n Shounen: `.shounen`\n Slice of Life: `.slicelife`\n Sports: `.sports`\n Thriller: `.thriller`\n", inline: true},
         )
         .setTimestamp()
         msg.channel.send(helpEmbed);
