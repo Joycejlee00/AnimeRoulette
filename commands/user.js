@@ -87,6 +87,7 @@ module.exports = {
             { name: '\u200B', value: '\u200B' , inline: true},
             {name: 'Top 5 Favorite Manga', value: `‣ ${finalMangaTitle[0]}\n ‣ ${finalMangaTitle[1]}\n ‣ ${finalMangaTitle[2]}\n ‣ ${finalMangaTitle[3]}\n ‣ ${finalMangaTitle[4]}\n`, inline: true},
         )
+        .addField({ name: '\u200B', value: '\u200B'})
         msg.channel.send(profileEmbed);
     }
 }
