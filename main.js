@@ -93,6 +93,9 @@ bot.on('message', async msg => {
     else if(command === 'user'){
         bot.commands.get('user').execute(msg, args, Discord);
     }
+    else if(command === 'search'){
+        bot.commands.get('user').execute(msg, args, Discord);
+    }
 });
 
 
