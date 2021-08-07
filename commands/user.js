@@ -44,7 +44,6 @@ module.exports = {
         }
         //get the top 5 favorite anime
         let finalAnimeTitle = animeTitleFav.slice(0, 5);
-        console.log(finalAnimeTitle);
 
         //favorite manga
         let favManga = Userdata.favorites.manga;
@@ -68,6 +67,7 @@ module.exports = {
         .setThumbnail(`${userImg}`)
         .setTimestamp();
         //set conditions in case someone does have a favorite anime/manga list
+        //undefined => no animes available yet ;o
         if(finalAnimeTitle.length == 0 && finalMangaTitle.length == 0) profileEmbed.addFields(
             {name: 'Top 5 Favorite Anime', value: `No Favorite Anime yet!`, inline: true},
             {name: 'Top 5 Favorite Manga', value: 'No Favorite Manga yet!' , inline: true},

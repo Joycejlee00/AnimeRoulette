@@ -92,7 +92,7 @@ bot.on('message', async msg => {
     //get the user's anime list info
     else if(command === 'user'){
         bot.commands.get('user').execute(msg, args, Discord);
-    } 
+    }
 });
 
 
